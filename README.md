@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Smart Nearby Places Recommender
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern web application that helps users discover **nearby places** based on their current location. The app provides relevant nearby locations with an intuitive and responsive interface, making it easy to explore restaurants, cafes, stores, and more.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+- Automatically detects your **current location**
+- Displays **nearby places** in different categories
+- **Search functionality** to filter places by name or type
+- **Responsive and interactive UI**
+- **Dark mode support** for night-time browsing
+- Integration with maps for **easy navigation**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🎬 Demo
 
-### `npm test`
+Check out the live demo here: [Add Your Live Link](#)  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="1905" height="928" alt="image" src="https://github.com/user-attachments/assets/bb5dd272-414b-442a-85c5-eb4420ff0a79" />
 
-### `npm run build`
+<img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/79ae4aa3-ea03-4cfe-b54a-7cfa20ca079d" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠 Technologies Used
 
-### `npm run eject`
+- **React.js** – Frontend framework
+- **JavaScript (ES6+)** – App logic
+- **HTML5 & CSS3** – Layout and styling
+- **React Hooks** – State management
+- **Browser Geolocation API** – Detect user location
+- **Google Maps / Map APIs** – Display maps and nearby places
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 💻 Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Follow these steps to run the project locally:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. **Clone the repository**
 
-## Learn More
+git clone https://github.com/Amanking0124/smart-nearby-places.git
+Navigate to the project folder
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+cd smart-nearby-places
+Install dependencies
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+npm install
+Start the development server
 
-### Code Splitting
+npm start
+Your app will open in the browser at http://localhost:3000
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+✨ Future Enhancements
+Add filtering by ratings or popularity
 
-### Analyzing the Bundle Size
+User authentication to save favorite places
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Offline mode for limited functionality without internet
 
-### Making a Progressive Web App
+Integration with reviews, photos, and social sharing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📄 License
+This project is licensed under the MIT License.

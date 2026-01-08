@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Amanking0124/Smart-Nearby-Places-Recommender/static/css/main.ac510f79.css",
-    "main.js": "/Amanking0124/Smart-Nearby-Places-Recommender/static/js/main.94154fe3.js",
+    "main.js": "/Amanking0124/Smart-Nearby-Places-Recommender/static/js/main.dfc8571e.js",
     "index.html": "/Amanking0124/Smart-Nearby-Places-Recommender/index.html",
     "main.ac510f79.css.map": "/Amanking0124/Smart-Nearby-Places-Recommender/static/css/main.ac510f79.css.map",
-    "main.94154fe3.js.map": "/Amanking0124/Smart-Nearby-Places-Recommender/static/js/main.94154fe3.js.map"
+    "main.dfc8571e.js.map": "/Amanking0124/Smart-Nearby-Places-Recommender/static/js/main.dfc8571e.js.map"
   },
   "entrypoints": [
     "static/css/main.ac510f79.css",
-    "static/js/main.94154fe3.js"
+    "static/js/main.dfc8571e.js"
   ]
 }

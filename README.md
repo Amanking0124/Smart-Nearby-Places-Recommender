@@ -16,7 +16,7 @@ A modern web application that helps users discover **nearby places** based on th
 ---
 
 ## 🎬 Demo
-
+ live link : https://nearby-places-woad.vercel.app/
 
 <img width="1905" height="928" alt="image" src="https://github.com/user-attachments/assets/bb5dd272-414b-442a-85c5-eb4420ff0a79" />
 
